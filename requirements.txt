@@ -1,0 +1,6 @@
+SQLAlchemy
+fastapi
+psycopg2-binary
+uvicorn
+sqlalchemy_serializer
+passlib

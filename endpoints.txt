@@ -1,0 +1,3 @@
+Endpoint url: /game/score
+Endpoint url: /game/score?playerId=2
+Endpoint url: /user
